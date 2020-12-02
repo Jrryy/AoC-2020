@@ -6,7 +6,7 @@ The language used for each challenge will be randomized until they become hard e
 ## Daily log
 
 * [Day 1: PHP](day_01)
-* Day 2:
+* [Day 2: Rust](day_02)
 * Day 3:
 * Day 4:
 * Day 5:
