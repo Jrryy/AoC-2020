@@ -16,7 +16,7 @@ func calculateTrees(treeMap []string, right int, down int) (count int) {
 		row += down
 	}
 
-	return count
+	return
 }
 
 func main() {
