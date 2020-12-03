@@ -8,15 +8,12 @@ import (
 
 func calculateTrees(treeMap []string, right int, down int) (count int) {
 	column := 0
-	skip := down
+	row := 0
 
-	for _, row := range treeMap {
-		if skip == down {
-			if row[column] == '#' {count++}
-			column = (column + right)%31
-			skip = 0
-		}
-		skip++
+	for row < len(treeMap) {
+		if treeMap[row][column%31] == '#' {count++}
+		column += right
+		row += down
 	}
 
 	return count
