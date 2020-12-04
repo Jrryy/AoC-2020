@@ -8,7 +8,7 @@ The language used for each challenge will be randomized until they become hard e
 * [Day 1: PHP](day_01)
 * [Day 2: Rust](day_02)
 * [Day 3: Go](day_03)
-* Day 4:
+* [Day 4: Ruby](day_04)
 * Day 5:
 * Day 6:
 * Day 7:
