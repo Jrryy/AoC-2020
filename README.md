@@ -9,8 +9,8 @@ The language used for each challenge will be randomized until they become hard e
 * [Day 2: Rust](day_02)
 * [Day 3: Go](day_03)
 * [Day 4: Ruby](day_04)
-* Day 5:
-* Day 6:
+* [Day 5: Swift](day_05)
+* [Day 6: Kotlin](day_06)
 * Day 7:
 * Day 8:
 * Day 9:
