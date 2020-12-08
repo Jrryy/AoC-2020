@@ -12,7 +12,7 @@ The language used for each challenge will be randomized until they become hard e
 * [Day 5: Swift](day_05)
 * [Day 6: Kotlin](day_06)
 * [Day 7: Go](day_07)
-* Day 8:
+* [Day 8: JavaScript](day_08)
 * Day 9:
 * Day 10:
 * Day 11:
