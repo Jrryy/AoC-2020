@@ -6,7 +6,6 @@ languages = [
     'C',
     'JavaScript',
     'Java',
-    'assembly',
     'rust',
     'go',
     'perl',
