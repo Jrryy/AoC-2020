@@ -17,7 +17,7 @@ The language used for each challenge will be randomized until they become hard e
 * [Day 10: Swift](day_10)
 * [Day 11: JavaScript](day_11)
 * [Day 12: Python](day_12)
-* Day 13:
+* [Day 13: JavaScript](day_13)
 * Day 14:
 * Day 15:
 * Day 16:
