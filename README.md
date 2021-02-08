@@ -22,7 +22,7 @@ The language used for each challenge will be randomized until they become hard e
 * [Day 15: Python](day_15)
 * [Day 16: Java](day_16)
 * [Day 17: Go](day_17)
-* Day 18:
+* [Day 18: Python](day_18)
 * Day 19:
 * Day 20:
 * Day 21:
